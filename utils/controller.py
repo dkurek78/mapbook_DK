@@ -24,3 +24,6 @@ def update_user(users_data: list) -> None:
             user['name'] = input('podaj nowe imię użytkownika: ')
             user['location'] = input('podaj nową lokalizację użytkownika: ')
             user['posts'] = input('podaj liczbę postów: ')
+
+
+
