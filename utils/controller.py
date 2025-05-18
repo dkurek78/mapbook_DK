@@ -26,3 +26,4 @@ def update_user(users_data: list) -> None:
             user['posts'] = input('podaj liczbę postów: ')
 
 
+
